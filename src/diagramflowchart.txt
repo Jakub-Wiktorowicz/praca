@@ -1,0 +1,23 @@
+Prosty system zarządzania zadaniami - diagram przypadków użycia (ASCII)
+
+    Użytkownik
+        O
+      /|\
+      / \
+        |
+        |                        +-------------------------------------------+
+        |                        | Prosty system zarządzania zadaniami      |
+        |                        |                                           |
+        +----------------------->|  [Dodaj zadanie]                          |
+        +----------------------->|  [Edytuj zadanie]                         |
+        +----------------------->|  [Usuń zadanie]                           |
+        +----------------------->|  [Przeglądaj zadania]                     |
+        +----------------------->|  [Filtruj zadania]                        |
+        +----------------------->|  [Sortuj zadania]                         |
+                                         |                                           |
+                                         +-------------------------------------------+
+
+Legenda:
+- O/\/\ : przedstawia aktora (Użytkownik)
+- []    : przypadek użycia (akcja dostępna w systemie)
+- Strzałki wskazują, że aktor może wywołać dany przypadek użycia.

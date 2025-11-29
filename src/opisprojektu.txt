@@ -1,0 +1,19 @@
+Projekt: Prosty system zarządzania zadaniami.
+
+Opis:
+Aplikacja umożliwia tworzenie, edycję i usuwanie zadań oraz przeglądanie ich w prostym interfejsie. Celem projektu jest demonstracja podstaw CRUD i współpracy frontendu z backendem.
+
+Funkcje:
+- Dodawanie i edytowanie zadań
+- Usuwanie zadań
+- Filtrowanie i sortowanie listy zadań
+
+Technologie:
+Node.js, Express, SQLite, HTML/CSS, JavaScript
+
+Instrukcja uruchomienia:
+1. Zainstalować zależności: npm install
+2. Uruchomić serwer: npm start
+
+Autor: Student
+Licencja: MIT
