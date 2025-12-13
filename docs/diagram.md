@@ -1,16 +1,22 @@
-```
+```mermaid
 flowchart LR
-    Brainstorming[Brainstorming] --> NewProduct[New Product]
-    Trends[Trends] --> NewProduct
-    Research[Research] --> NewProduct
+    %% Aktor
+    U[Użytkownik]
 
-    NewProduct --> Prototyping{Prototyping}
+    %% Granica systemu
+    subgraph SYS[Prosty system zarządzania zadaniami]
+        A[Dodaj zadanie]
+        B[Edytuj zadanie]
+        C[Usuń zadanie]
+        D[Przeglądaj zadania]
+        E[Filtruj zadania]
+        F[Sortuj zadania]
+    end
 
-    Prototyping -- Yes --> Design[Design]
-    Design --> Implementation[Implementation]
-    Implementation --> Testing[Testing]
-
-    Prototyping -- No --> Review[Review]
-    Review --> Refinement[Refinement]
-    Refinement --> QuickDesign[Quick Design]
-    QuickDesign --> Prototyping
+    %% Relacje aktora do przypadków użycia
+    U --> A
+    U --> B
+    U --> C
+    U --> D
+    U --> E
+    U --> F
