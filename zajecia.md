@@ -1,3 +1,11 @@
+
+```mermaid
+flowchart TD
+ A[Start] --> B[Etap 1]
+ B --> C[Etap 2]
+ C --> D[Stop]
+```
+
 ![opis](pobrane.jpg)
 ---
 ![drugi obraz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3HHk-D-1v8u15HWQQ5vnIZ1t5ioOo3M2HXJQIpBzXWxlB-ltJFILknYyKfQ1YyQLQa8CPZWPuabeXPii71EK6P8-wJg21mpT8ML0km_PJg&s=10)
