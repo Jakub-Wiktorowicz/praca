@@ -1,39 +1,52 @@
-# INSPIRACJA #
-1. Projekt to plan działania, wstępna wersja czegoś (np. budynku, urządzenia) lub zbiór powiązanych zadań zmierzających do osiągnięcia celu, charakteryzujący się
-2.  początkiem, końcem, określonymi celami i środkami.
-  ## Przyklady 
- W budownictwie obejmuje etapy od koncepcyjnego po wykonawczy, a w kontekście edukacji może być formą samodzielnej pracy uczniów nad zadaniem. PGE Projekt Warszawa to nazwa klubu siatkarskiego, a MGProjekt to biuro architektoniczne, co pokazuje, że "projekt" ma wiele zastosowań. 
-
-
+# Inspiracje (słowa, skojarzenia, pomysły):
+---
+ minimalizm
+ automatyzacja
+personalizacja
+społeczność
+ mikroserwisy
+ offline-first
+ gamifikacja
+ prywatność
+ integracje (API)
+analiza danych
+- edukacja
+- wellbeing / zdrowie
+- szybkie prototypy
+- ekologia / zrównoważony rozwój
+- lokalne zasoby
+- asystent głosowy
+- rozszerzona rzeczywistość (AR)
+- wizualizacja informacji
+- dostępność (accessibility)
 --- 
+## Krótka lista elementów projektów:
+- interfejs użytkownika (web / mobile)
+- backend (API, logika biznesowa)
+- baza danych (relacyjna / NoSQL)
+- autoryzacja i uwierzytelnianie
+- system powiadomień
+- panel administracyjny
+- integracje z zewnętrznymi serwisami
+- testy (unit / e2e)
+- CI/CD i automatyczne wdrożenia
+- dokumentacja i onboarding użytkownika
 
-1. Projekt to plan działania, wstępna wersja czegoś (np. budynku, urządzenia) lub zbiór powiązanych zadań zmierzających do osiągnięcia celu, charakteryzujący się
-2.  początkiem, końcem, określonymi celami i środkami.
-  ## Przyklady 
- W budownictwie obejmuje etapy od koncepcyjnego po wykonawczy, a w kontekście edukacji może być formą samodzielnej pracy uczniów nad zadaniem. PGE Projekt Warszawa to nazwa klubu siatkarskiego, a MGProjekt to biuro architektoniczne, co pokazuje, że "projekt" ma wiele zastosowań. 
+## Wstępne dane wejściowe (przykłady):
+- lista kategorii: edukacja, zdrowie, rozrywka, produktywność, e-commerce, społeczność
+- lista funkcji: rejestracja/logowanie, tworzenie profili, wyszukiwanie, filtrowanie, system ocen, udostępnianie, eksport danych, powiadomienia, raporty, personalizowane rekomendacje
+- wymagania niefunkcjonalne: wydajność, skalowalność, bezpieczeństwo, prywatność danych, dostępność
+- formaty danych: JSON, CSV, obraz, audio
+- role użytkowników: gość, zarejestrowany, moderator, administrator
 
-
-Funkcja 
-- dobra
-- dobra
-- dobra
-- dobra
-
-Funkcja 
-- dobra
-- dobra
-- dobra
-- dobra
-
-Funkcja 
-- dobra
-- dobra
-- dobra
-- dobra
-
-Funkcja 
-- dobra
-- dobra
-- dobra
-- dobra
-
+## Lista źródeł pomysłu:
+- własna potrzeba / codzienny problem
+- znajomy / rozmowa z użytkownikiem
+- przypadkowe odkrycie (serendypia)
+- analiza trendów rynkowych / media społecznościowe
+- zadanie szkolne / praca dyplomowa
+- open-source i istniejące projekty
+- hackathon / konkurs technologiczny
+- feedback od klientów / użytkowników
+- obserwacja konkurencji
+- inspiracja z innych dziedzin (sztuka, architektura, biologia)
